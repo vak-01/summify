@@ -1,0 +1,102 @@
+- Forest management involves regeneration of the stand, which includes felling some trees to make way for new growth.
+- The process of logging begins with cruising, which is a survey of the timberlands to locate and estimate the volumes and grades of standing timber.
+- The forester needs to know the location of dead, dying, and diseased trees to remove them.
+- Silviculturally available trees that are past their felling age are also identified for felling.
+- A plan is made for felling, including the location of roads, number of vehicles and workers needed, and logistics arrangements.
+- A map is created showing the locations and volumes of trees to be felled.
+- Marking is the careful selection of trees for harvesting based on a forest management prescription.
+- Different colored rings are used to mark trees for different purposes, such as felling, boundary lines, research plots, or preservation.
+- A marking register is used to record information about each tree, including species, girth, condition, estimated volume, and any remarks.
+- Felling is the actual process of cutting or harvesting trees using an axe, saw, chainsaw, or other device.
+- Safety on the forest floor is the most important consideration during forestry operations, including maintaining a safe distance from machines and trees, using protective equipment, and planning escape paths.
+- Felling is typically done using three different cuts.
+
+- To ensure a tree falls in a certain direction, cuts are made and a portion of the log is removed
+- A notch is created to the right of the tree to create a hinge for it to fall in that direction
+- Face cut is given to the trunk in the felling direction to a depth of 1/3 of d
+- Back cut is given from the backside, leaving holding wood to act as a hinge
+- Three types of faces are used for face cuts: conventional, Humboldt, and open
+- Conventional face gives greatest accuracy, Humboldt face saves lumber, and open face provides greatest control
+- Delimbing is cutting off branches and leaving them on the forest floor for protection and mulching
+- Bucking is cutting timber into logs for easier transportation
+- Hammer marks are used to mark legally cut trees
+- Skidding is the process of moving logs from the forest to a landing area using elephants, tractors, or manual labor
+- Loading and transportation is moving logs from the landing area to the depot using cranes or forwarders
+- Seasoning is the process of reducing moisture in the timber in a controlled manner to prevent deformities
+- Grading is classifying logs of similar diameter, girth, and soundness together
+- Graded lots are created and measurements of each log are taken and noted down in the depot register.
+
+- The process of logging involves cruising, marking, felling, delimbing, bucking, skidding, and transportation to a depot.
+- Logs are graded and auctioned off, and can be used to make furniture or modern products like plywood.
+- Plywood is made by converting logs into thin sheets using a machine with a blade that rotates the log.
+- The sheets are glued together and arranged in alternating directions to create a uniform and strong final product.
+- Records are kept throughout the logging and processing process.
+- Growing stock is the volume of all living trees more than X centimeters in diameter at breast height.
+- Small trees and saplings are not counted in growing stock due to difficulties in measurement and their low impact on total volume.
+- Mortality of young plants is high in natural forests, so they are not included in growing stock measurements.
+- Thin plants in large numbers also do not significantly impact growing stock and are left out of measurements.
+
+- The definition of growing stock is the volume of all living trees above a certain diameter at breast height or above the buttress, measured over bark from the ground or stump height to a top stem diameter, excluding or including branches to a minimum diameter.
+- Stump height is the height at which a tree is cut when harvesting, typically around 1 foot, to avoid damage to equipment and for convenience.
+- The growing stock is the sum total of all trees by number, volume, or biomass growing within a particular area of interest, typically a forest stand.
+- The commercial growing stock is a subset of the growing stock comprised of commercially important trees under current market conditions.
+- The growth of a forest is dependent on factors such as regeneration, spatial distribution of plants, silvicultural treatment, artificial thinning, site conditions, and climatic conditions.
+- The growth curve of a forest is sigmoidal, with three phases: lag phase, log phase, and stationary phase.
+- Increment is defined as an increase in growth, diameter, basal area, height, volume, quality, or value of individual trees or crops during a given period.
+- In growth or recruitment is the volume of those trees that were not counted in the first measurement due to their small diameter but are now countable due to an increase in diameter.
+
+- Growing stock is the volume of all living trees above a certain diameter at a given time
+- Increment is the change in growing stock over time
+- Increment has three components: in-growth, harvest, and mortality
+- In-growth is the volume of new trees that have grown during the measurement period
+- Harvest is the volume of trees that were harvested during the measurement period
+- Mortality is the volume of trees that died during the measurement period
+- Net growth in the growing stock is V2 minus V1
+- Net growth in the initial volume is V2 minus V1 plus H minus I
+- Cross growth in the initial volume is net growth plus mortality
+- Increment is measured in terms of periodic annual increment (PAI), current annual increment (CAI), and mean annual increment (MAI)
+- PAI is the increment over a period of p years at any stage in the tree's history
+- CAI is the increment over a period of one year at any stage in the tree's history
+- MAI is the average growth of the stand at any stage of its life
+- The optimum harvest time is when the stand has reached the maximum MAI or the point where the CAI and MAI curves cut each other
+- Increment depends on species, internal factors, external factors, and catastrophic events
+- Site quality is the relative productive capacity of a particular site
+- Site quality depends on intrinsic qualities and management inputs
+- CVP index is a way of measuring site quality based on climate, vegetation, and precipitation
+- CVP index is calculated as Tv/Ta multiplied by P multiplied by G/12
+
+- The growing period (G) in months affects the CVP index, which is multiplied by E and divided by 100 (light factor) to determine site quality.
+- Temperature, precipitation, growing season, and availability of light are factors that affect the CVP index and site quality.
+- The range of temperature affects the CVP index, with less variation resulting in a higher index.
+- Forest growth is only possible when the CVP index is greater than 25.
+- Site quality can be determined by using climatic data or by looking at the species and tree characteristics present in the forest.
+- Tree characteristics can be measured using the top height method or the sample plot method.
+- Growing stock is the total volume of living trees in a stand and can be measured in terms of volume or weight.
+- Increment is the change in growing stock per unit time and can be measured as periodic annual increment, current annual increment, or mean annual increment.
+- The rate of increment depends on species and site conditions.
+- Yield can be defined as the total amount of timber that can be harvested per unit period or the maximum sustained amount of timber that can be extracted or harvested every year.
+- Sustained yield means extracting the same amount of timber every year in a sustained manner.
+- The rate of interest or increment must remain constant for sustained yield to be possible.
+
+- The scenario involves starting with 100,000 and increasing it to 110,000 at the end of the first year.
+- If 20,000 is extracted instead of 10,000, the amount left is 90,000.
+- The interest earned is only on the remaining amount, which is 9,000 at the end of the second year.
+- The amount decreases every year, making it unsustainable.
+- Yield refers to the amount that can be extracted per unit time every year.
+- Sustained yield is the yield that can be harvested every year till perpetuity.
+- Methods were developed to regulate the yield, such as the area method, volume method, Hundeshagen’s method, and von Mantel’s method.
+- The area method involves dividing the total area by the rotation period to determine the area that should be harvested every year.
+- The volume method involves dividing the total volume by the rotation period to determine the volume that should be harvested every year.
+- Hundeshagen’s method says that the amount of harvesting should be proportional to the inventory or total volume of timber available.
+- Von Mantel’s method approximates the inventory by the area of a triangle and calculates the total volume of timber in each section.
+
+- Yield can be defined as removing all trees from a forest or removing trees in a sustained manner to get the same amount of timber every year.
+- The von Mantel formula is used to calculate the total inventory in a regular forest.
+- The amount of harvesting in a regular forest is given by vR multiplied by AR.
+- The Hundeshagen formula is used to calculate the amount of harvesting that can be done in a sustained manner, which is 2 times the growing stock divided by the rotation period.
+- The Austrian formula is used to modulate the increment that can be extracted from a forest based on the current scenario and the ideal scenario.
+- The Cotta formula states that a tree cut at the beginning of a periodic block puts up no increment, while a tree cut at the end puts up the complete increment. On average, trees put up half the increment over P years or full increment over P by 2 years.
+- Yield regulation by the number of trees involves cutting trees based on the deviation from the ND curve.
+- Yield regulation by simulation involves modeling the forest and simulating its growth to make decisions about felling trees.
+- Computer simulations allow for an exact prediction of when and how much yield can be obtained.
+
